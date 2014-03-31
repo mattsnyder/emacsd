@@ -1,0 +1,5 @@
+(require 'haml-mode)
+(define-key haml-mode-map [(control meta down)] 'haml-forward-sexp)
+(define-key haml-mode-map [(control meta up)] 'haml-backward-sexp)
+(define-key haml-mode-map [(control meta left)] 'haml-up-list)
+(define-key haml-mode-map [(control meta right)] 'haml-down-list)

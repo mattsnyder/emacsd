@@ -1,9 +1,3 @@
-;; (define-key textile-mode-map (kbd "M-s") 'save-buffer)
-;; (define-key text-mode-map (kbd "M-s") 'save-buffer)
-
-(define-key input-decode-map "\e[1;2D" [S-left])
-(define-key input-decode-map "\e[1;2C" [S-right])
-
 ;; Split Windows
 (global-set-key [f6] 'split-window-horizontally)
 (global-set-key [f7] 'split-window-vertically)
@@ -24,6 +18,7 @@
 ;; Keyboard Overrides
 (global-set-key [(meta up)] 'beginning-of-buffer)
 (global-set-key [(meta down)] 'end-of-buffer)
+
 (global-set-key [(meta shift right)] 'ido-switch-buffer)
 (global-set-key [(meta shift up)] 'recentf-ido-find-file)
 (global-set-key [(meta shift down)] 'ido-find-file)
