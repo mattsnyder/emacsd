@@ -1,1 +1,1 @@
-#s(hash-table size 65 test equal rehash-size 1.5 rehash-threshold 0.8 data ("/Users/mattsnyder/.emacs.d/" ("custom/01ruby.el" "init.el" "custom/12dashatpoint.el" "custom/02autocomplete.el" "Cask" "custom/06yasnippet.el") "/Users/mattsnyder/development/usertesting/usertesting.com/" ("app/models/account.rb")))
+#s(hash-table size 65 test equal rehash-size 1.5 rehash-threshold 0.8 data ("/Users/mattsnyder/.emacs.d/" ("custom/03smartparens.el" "init.el" "Cask" "custom/06yasnippet.el") "/Users/mattsnyder/development/usertesting/usertesting.com/" ("app/models/account.rb")))

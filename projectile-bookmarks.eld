@@ -1,1 +1,1 @@
-("~/development/usertesting/usertesting.com/" "~/.emacs.d/")
+("~/.emacs.d/" "~/development/usertesting/usertesting.com/")
