@@ -49,4 +49,4 @@ of FILE in the current directory, suitable for creation"
             (local-set-key (kbd "C-c k") 'rspec-compile-file)
             ))
 
-(add-hook 'ruby-mode-hook 'robe-mode)
+;; (add-hook 'ruby-mode-hook 'robe-mode)
